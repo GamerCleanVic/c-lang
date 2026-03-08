@@ -3,7 +3,8 @@
 #include <math.h>
 
 int main(){
-  printf("\n\nBibliotecas\n\n");
+  printf("\nBibliotecas\n\n");
+  return 0;
 }
 
 
